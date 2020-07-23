@@ -10,8 +10,8 @@ A quick demo Visual Basic forms application for interacting with the COM based C
     -- oApi.Init should have your own database serial number & credentials along with the database number
     -- constit.Load() should contain the System Record ID of the constituent you're adding the consent record to
     -- Consent.Fields should contain your consent channel/category combination specific to your database
-    4) Run the application and click on the button
-    5) The consent record should be added to the System Record ID you defined
+   4) Run the application and click on the button
+   5) The consent record should be added to the System Record ID you defined
     
 This solution code is based on the available API documentation here: https://docs.blackbaud.com/communication-preferences/products/re7/api
 
