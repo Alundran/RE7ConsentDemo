@@ -7,6 +7,7 @@ A quick demo Visual Basic forms application for interacting with the COM based C
   1) Make sure you have The Raiser's Edge installed on your workstation with preferably the latest patch or at least Patch 8
   2) Open the solution in Visual Studio
   3) Edit the Form1.vb code and replace the following fields with your own data:
+  
     -- oApi.Init should have your own database serial number & credentials along with the database number
     -- constit.Load() should contain the System Record ID of the constituent you're adding the consent record to
     -- Consent.Fields should contain your consent channel/category combination specific to your database
